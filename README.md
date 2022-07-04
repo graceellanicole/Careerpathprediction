@@ -1,2 +1,3 @@
-# Careerpathprediction
-This is a career path project
+# INTELLIGENT CAREER GUIDANCE SYSTEM
+
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
